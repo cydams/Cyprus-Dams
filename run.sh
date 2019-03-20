@@ -6,4 +6,4 @@ git status
 git fetch upstream
 git merge upstream/master
 git pull origin master
-git push origin master
+git push -u origin --all
