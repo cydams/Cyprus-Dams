@@ -1,7 +1,5 @@
 git status
-git add --all
-git status
+git add .
 git commit -m "update"
-git status
 git pull origin master
 git push origin master
